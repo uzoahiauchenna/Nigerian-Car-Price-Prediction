@@ -70,5 +70,6 @@ analysis.
 - Python, Pandas, NumPy
 - XGBoost, LightGBM
 - Matplotlib, Seaborn
+- scikit-learn
 - Streamlit
 - Joblib
